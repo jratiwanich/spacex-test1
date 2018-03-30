@@ -1,0 +1,73 @@
+{
+    "relations": [
+        {
+            "id": 5,
+            "name": "Brother"
+        },
+        {
+            "id": 8,
+            "name": "Daughter"
+        },
+        {
+            "id": 4,
+            "name": "Father"
+        },
+        {
+            "id": 11,
+            "name": "Granddaughter"
+        },
+        {
+            "id": 9,
+            "name": "Grandfather"
+        },
+        {
+            "id": 12,
+            "name": "Grandmother"
+        },
+        {
+            "id": 10,
+            "name": "Grandson"
+        },
+        {
+            "id": 13,
+            "name": "Guardian (Legal)"
+        },
+        {
+            "id": 1,
+            "name": "Husband"
+        },
+        {
+            "id": 3,
+            "name": "Mother"
+        },
+        {
+            "id": 14,
+            "name": "Self"
+        },
+        {
+            "id": 6,
+            "name": "Sister"
+        },
+        {
+            "id": 7,
+            "name": "Son"
+        },
+        {
+            "id": 2,
+            "name": "Unrelated Family"
+        },
+        {
+            "id": 15,
+            "name": "Ward (of a Legal Guardian)"
+        },
+        {
+            "id": 16,
+            "name": "Wife"
+        }
+    ],
+    "status": true,
+    "error": null,
+    "errorCode": "0",
+    "stackTrace": null,
+    "respData": null
+}
