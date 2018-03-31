@@ -1,5 +1,9 @@
 # SpcxTest1
 
+View the output from Git Pages Here:
+https://jratiwanich.github.io/spacex-test1/dist
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
 ## Development server
